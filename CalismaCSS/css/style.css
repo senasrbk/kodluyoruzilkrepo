@@ -24,7 +24,7 @@ div{
     font-size: 28px;
     font-family: arial;
     font-weight: bold;    
-    background-color: mediumturquoise;
+    background-color: rgb(93, 221, 215);
 }
 .first-article{
     background-color: moccasin;
@@ -32,5 +32,8 @@ div{
 }
 #first-paragraph{
     color:magenta}
-
+#links{
+    background-color: rgb(187, 240, 189);
+    font-size: 24px;
+}
 
