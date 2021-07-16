@@ -1,0 +1,37 @@
+p{
+    font-family: arial;
+    font-weight: bold;
+}
+h1{
+    font-style: italic;
+    color: maroon;    
+    font-family: Georgia;
+    background-color: lightskyblue;
+}
+h2{
+    color: royalblue;
+    font-family: Georgia;
+}
+ol{
+    font-size: 20px;
+    color: teal;    
+    font-family: cursive;
+}
+div{
+    text-align: center;
+}
+.contact{
+    font-size: 28px;
+    font-family: arial;
+    font-weight: bold;    
+    background-color: mediumturquoise;
+
+}
+
+.first-article{
+    background-color: moccasin;
+    font-family: monospace;
+}
+#first-paragraph{
+    color:magenta}
+
