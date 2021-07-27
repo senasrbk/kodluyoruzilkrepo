@@ -35,6 +35,16 @@ div{
 #links{
     background-color: rgb(187, 240, 189);
     font-size: 24px;
+    border-bottom-width: 30px;
+    border-style: solid;
 }
+.pagelinks{
+    background: linear-gradient(90deg,rgba(45, 156, 219, .6),rgba(155, 81, 224, .6));
+    padding: 10px 20px;
+    border-radius: 25px;
+    color: white;
+    text-decoration: none;
+    box-shadow: 2px 2px 5px 2px rgba(0,0,0,0.3);
+    -webkit-box-shadow: 2px 2px 5px 2px rgba(0,0,0,0.3);
 
-
+}
