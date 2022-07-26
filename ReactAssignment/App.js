@@ -24,6 +24,7 @@ import axios from "axios";
         users.posts = userPosts;
       
         return users;
+        
        } catch (error) {
          console.log(error);
        }
